@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{81328C18-17CF-B3F4-46D8-CC1DDC0FB7F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hacker.cs">
+    <Files>
+      <File FileName="Assets/Hacker.cs" Line="13" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="18ea64f7-6360-4f96-83fc-14584c8715be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
