@@ -10,7 +10,8 @@ public class Hacker : MonoBehaviour
     //Game State
     int level;
 
-    enum Screen = {}
+    enum Screen {MainMenu, Password, Win};
+    Screen currentScreen = Screen.MainMenu;
 
     void Start()
     {
@@ -59,6 +60,7 @@ public class Hacker : MonoBehaviour
 
     void StartGame()
     {
+        currentScreen = Screen.Password;
         Terminal.WriteLine("você escolheu o level " + level);
         Terminal.WriteLine("Digite o password: ");
     }
